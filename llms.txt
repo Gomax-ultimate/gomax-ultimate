@@ -1,0 +1,29 @@
+# GOMAX Ultimate
+
+> GOMAX Ultimate is a pay-once, self-hosted, AI-native operating system for WordPress and WooCommerce. Users connect ChatGPT, Claude, or Gemini and run their entire website by chatting — building pages, generating and optimizing images, fixing SEO/GEO, publishing content, managing their shop, and capturing leads — with no subscription and with their data staying on their own site (bring-your-own-AI-key).
+
+## Key facts
+
+- **Model:** Pay once, no subscription. Includes 12 months of updates; optional small yearly renewal afterward.
+- **Privacy:** Self-hosted. First-party. Your data never routes through a third-party SaaS. Bring your own AI key (OpenAI / Anthropic / others).
+- **Works with:** ChatGPT, Claude, Gemini (and other assistants) — connect the one you already use.
+- **Platform:** WordPress + WooCommerce.
+- **Maker:** Unlimited Possibilities.
+
+## What it does
+
+- Run a WordPress/WooCommerce site through natural-language chat with an AI assistant.
+- Generate premium, on-brand pages from a single prompt (layout, motion, imagery).
+- Create AI images and automatically serve them as fast WebP/AVIF.
+- Improve SEO and GEO (Generative Engine Optimization) so the site is found on Google and recommended inside AI assistant answers.
+- Keep a WooCommerce store discoverable and shoppable, including by AI shopping agents.
+- Auto-publish SEO-ready articles on a schedule.
+- Run built-in scheduled agents (SEO/GEO, Shop, Growth) that make only reversible changes with rollback.
+- Provide first-party, privacy-first analytics and lead capture.
+
+## Links
+
+- Website: https://thebuzzbazaar.com
+- Product page: https://thebuzzbazaar.com/gomax-ultimate/
+- Live demos: https://thebuzzbazaar.com/gomax-demo-nova/ , https://thebuzzbazaar.com/gomax-demo-villa-aurelia/ , https://thebuzzbazaar.com/gomax-demo-archipelago/ , https://thebuzzbazaar.com/gomax-demo-aura/
+- Docs: https://github.com/Gomax-ultimate/gomax-ultimate/tree/main/docs

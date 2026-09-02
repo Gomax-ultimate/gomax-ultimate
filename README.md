@@ -67,6 +67,17 @@ Agencies, shop owners, creators and small businesses who want a **modern, AI-run
 
 ---
 
+## Documentation
+
+Plain-language docs (no code, no fluff):
+
+- 📘 [Getting started](docs/getting-started.md)
+- ✨ [Features](docs/features.md)
+- 🔍 [SEO & GEO — get found on Google *and* in AI answers](docs/seo-and-geo.md)
+- ❓ [FAQ](docs/faq.md)
+
+---
+
 ## FAQ
 
 **Do I need a subscription?** No. GOMAX is pay-once. You bring your own AI key, so there's no metered SaaS in the middle.
