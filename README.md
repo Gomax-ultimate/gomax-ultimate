@@ -26,17 +26,63 @@ No subscription. No data leaving your site. **You bring your own AI keys; you se
 
 ---
 
-## What it does — in plain language
+## What it does — the short tour
 
-- **🗣️ Run your site by chatting.** Connect your favorite AI assistant and operate WordPress in natural language. No menus to master.
-- **🎨 Build premium pages from one prompt.** Cinematic, on-brand pages — hero, motion, sections, imagery — that look designed, not generated.
-- **🖼️ Generate & optimize media.** Create on-brand images from a text brief; images are automatically served as fast WebP/AVIF.
-- **🔍 Get found on Google *and* inside AI answers.** Clean structure, sitemaps, structured data and AI-discovery files so search engines and AI assistants can recommend you (SEO + GEO).
-- **🛒 Sell — including to AI shopping agents.** Keep your WooCommerce store discoverable and shoppable, with a machine-readable product catalog.
-- **✍️ Publish on autopilot.** Schedule SEO-ready articles (with your approval), each with full metadata and instant search-engine notification.
-- **🤖 Turn on built-in agents.** Named agents (SEO/GEO, Shop, Growth) that work on a schedule and make **only reversible changes** within a risk budget — with one-click rollback.
-- **📈 Own your analytics & leads.** First-party, privacy-first analytics and lead capture — no third-party trackers, your data stays yours.
-- **🛟 Safe by design.** Preview, verify, and roll back. Nothing risky happens without your say-so.
+GOMAX isn't a chatbot bolted onto WordPress. It's a full **AI operating system** for your site — it builds, designs, optimizes, sells, publishes, protects and grows, all by chat.
+
+**🗣️ Talk to your site**
+- Run WordPress & WooCommerce in natural language with ChatGPT, Claude or Gemini
+- Connect securely with a revocable access pass — no admin password sharing
+- Agent-native & standards-based; anything the AI does, you can also do by hand
+
+**🎨 Build & design**
+- Premium, agency-grade pages from a single prompt (hero, motion, sections, imagery)
+- Whole-page composition from curated high-end recipes filled with your copy
+- On-brand block generation + a growing premium block library
+- Cinematic scroll motion engine and interactive/WebGL experiences
+- Brand design tokens & skins; header, footer & menu control
+
+**🖼️ Media**
+- Generate on-brand images and product shots from a text brief
+- Automatic WebP/AVIF optimization, resizing, EXIF stripping, bulk + thumbnails
+
+**🔍 SEO**
+- Clean permalinks, XML sitemaps, per-page SEO (Yoast/RankMath/AIOSEO-aware)
+- Structured data (Product, Article, Breadcrumb, FAQ) + IndexNow instant indexing
+- Redirect manager, 404 monitor, taxonomy SEO, one-click site audits
+
+**🤖 GEO — get recommended inside AI answers**
+- AI-discovery files (llms.txt, manifests), AI crawler access control
+- AI Readiness scorecard + AI-visibility analytics
+
+**🛒 WooCommerce & AI commerce**
+- Keep your shop discoverable and shoppable — by people and AI shopping agents
+- Machine-readable product catalog, agentic commerce (ACP/UCP-ready), merchant feeds, commerce-readiness scoring
+
+**✍️ Content on autopilot**
+- Scheduled SEO articles with full metadata + instant indexing; embed video in posts
+
+**🧠 Built-in agents & autonomy**
+- SEO/GEO, Shop Manager and Growth agents — scheduled, reversible, with rollback
+- Autopilot goals (fix my site, make me AI-discoverable/-commerce-ready, optimize SEO/GEO, optimize shop, grow reach)
+- GOMAX Doctor (auto-fix site-breakers), persistent Site Brain, workflow engine
+
+**📈 Analytics, leads & CRM**
+- First-party privacy-first analytics, lead capture & scoring, unified inbox (forms + chat + email + leads + comments), per-lead attribution
+
+**💬 Communication**
+- On-site AI chatbot/product advisor, voice agent, two-way email inbox, social engagement (approval-queue, never auto-posts)
+
+**🛟 Health, safety & maintenance**
+- Auditors for SEO, accessibility (WCAG), performance (Core Web Vitals), link health, database and security
+- Off-site backups (BYOK), cache & HTTPS hygiene, system check
+- Preview + verify + rollback; read/preview/write modes; audit log
+
+**🔒 Privacy & ownership**
+- Self-hosted, first-party, **bring-your-own-key**, **pay once**; consent + data export/erase built in
+
+> ### 📖 [**→ See the complete capability list**](docs/capabilities.md)
+> The full, exhaustive breakdown of everything GOMAX Ultimate can do.
 
 ---
 

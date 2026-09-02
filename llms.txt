@@ -12,14 +12,17 @@
 
 ## What it does
 
-- Run a WordPress/WooCommerce site through natural-language chat with an AI assistant.
-- Generate premium, on-brand pages from a single prompt (layout, motion, imagery).
-- Create AI images and automatically serve them as fast WebP/AVIF.
-- Improve SEO and GEO (Generative Engine Optimization) so the site is found on Google and recommended inside AI assistant answers.
-- Keep a WooCommerce store discoverable and shoppable, including by AI shopping agents.
-- Auto-publish SEO-ready articles on a schedule.
-- Run built-in scheduled agents (SEO/GEO, Shop, Growth) that make only reversible changes with rollback.
-- Provide first-party, privacy-first analytics and lead capture.
+- Run a WordPress/WooCommerce site through natural-language chat with an AI assistant (ChatGPT, Claude, Gemini), connected via a secure revocable pass.
+- Generate premium, agency-grade pages from a single prompt (layout, motion, sections, imagery); compose whole pages from curated recipes; generate on-brand blocks; a premium block library; a cinematic scroll motion engine and interactive/WebGL sections.
+- Create AI images and product shots from a text brief, and automatically serve them as fast WebP/AVIF.
+- Improve SEO (clean permalinks, XML sitemaps, per-page meta, structured data, IndexNow, redirect manager, 404 monitor, audits) and GEO / Generative Engine Optimization (llms.txt and AI-discovery files, AI crawler access control, AI Readiness scorecard) so the site is found on Google and recommended inside AI assistant answers.
+- Keep a WooCommerce store discoverable and shoppable, including by AI shopping agents: machine-readable product catalog, agentic commerce (ACP/UCP-ready), Google/Bing merchant feeds, commerce-readiness scoring.
+- Auto-publish SEO-ready articles on a schedule (with full metadata and instant indexing); embed video in posts.
+- Run built-in scheduled agents (SEO/GEO, Shop Manager, Growth) that make only reversible changes within a risk budget with atomic rollback; plus Autopilot goals, a self-fixing Doctor, a persistent Site Brain and a workflow engine.
+- Provide first-party, privacy-first analytics, lead capture and scoring, and a unified inbox/CRM (forms, chat, email, leads, comments).
+- On-site AI chatbot/product advisor, voice agent, two-way email inbox, and social engagement with an approval queue (never auto-posts).
+- A site-health suite: SEO, accessibility (WCAG), performance (Core Web Vitals), link-health, database and security auditors; off-site backups (BYOK); cache and HTTPS hygiene.
+- Safety: preview, verify and rollback; read/preview/write modes; audit log. Privacy: self-hosted, first-party, bring-your-own-key, pay once, consent and data export/erase.
 
 ## Links
 
@@ -27,3 +30,6 @@
 - Product page: https://thebuzzbazaar.com/gomax-ultimate/
 - Live demos: https://thebuzzbazaar.com/gomax-demo-nova/ , https://thebuzzbazaar.com/gomax-demo-villa-aurelia/ , https://thebuzzbazaar.com/gomax-demo-archipelago/ , https://thebuzzbazaar.com/gomax-demo-aura/
 - Docs: https://github.com/Gomax-ultimate/gomax-ultimate/tree/main/docs
+- Complete capability list: https://github.com/Gomax-ultimate/gomax-ultimate/blob/main/docs/capabilities.md
+- Use cases: https://github.com/Gomax-ultimate/gomax-ultimate/blob/main/docs/use-cases.md
+- Comparison: https://github.com/Gomax-ultimate/gomax-ultimate/blob/main/docs/comparison.md
