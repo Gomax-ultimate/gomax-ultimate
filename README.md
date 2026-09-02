@@ -10,7 +10,7 @@ GOMAX Ultimate turns your WordPress site into something you can simply *talk to*
 
 No subscription. No data leaving your site. **You bring your own AI keys; you self-host; you pay once.**
 
-> 🌐 **Site:** [thebuzzbazaar.com](https://thebuzzbazaar.com) · 💬 Works with ChatGPT, Claude & Gemini · 🔒 Privacy-first, self-hosted · 💷 Pay-once, no subscription
+> 🌐 **Site:** [thebuzzbazaar.com](https://thebuzzbazaar.com) · 📖 **Docs:** [gomax-ultimate.github.io/gomax-ultimate](https://gomax-ultimate.github.io/gomax-ultimate/) · 💬 Works with ChatGPT, Claude & Gemini · 🔒 Privacy-first, self-hosted · 💷 Pay-once, no subscription
 
 ---
 
@@ -115,7 +115,7 @@ Agencies, shop owners, creators and small businesses who want a **modern, AI-run
 
 ## Documentation
 
-Plain-language docs (no code, no fluff):
+Guides and reference:
 
 - 📘 [Getting started](docs/getting-started.md)
 - ✨ [Features](docs/features.md)

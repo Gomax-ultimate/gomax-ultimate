@@ -10,7 +10,7 @@ It stays on your own WordPress site. GOMAX is self-hosted and privacy-first — 
 ChatGPT, Claude, and Gemini, among others. You connect the one you already use.
 
 **Do I need to be technical?**
-No. You operate your site by asking in plain language. GOMAX handles the WordPress details.
+No. You operate your site by asking in your own words. GOMAX handles the WordPress details.
 
 **Does it work with WooCommerce?**
 Yes. It helps keep your shop discoverable and shoppable — including by AI shopping agents.

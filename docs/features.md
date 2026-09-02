@@ -1,6 +1,6 @@
 # Features
 
-Everything GOMAX Ultimate does — in plain language.
+Everything GOMAX Ultimate can do for your website.
 
 ## Talk to your site
 Connect ChatGPT, Claude, or Gemini and operate your whole WordPress/WooCommerce site by chatting. No dashboards to master, no menus to hunt through.

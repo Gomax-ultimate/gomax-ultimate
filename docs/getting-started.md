@@ -12,7 +12,7 @@ GOMAX doesn't lock you to one AI or meter you by the token. You connect **your o
 
 ## 3. Connect your assistant
 
-Connect **ChatGPT, Claude, or Gemini**. From then on you simply *ask* — in plain language — and GOMAX carries it out on your site.
+Connect **ChatGPT, Claude, or Gemini**. From then on you simply *ask* — in your own words — and GOMAX carries it out on your site.
 
 ## 4. Just ask
 

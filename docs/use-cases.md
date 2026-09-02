@@ -20,7 +20,7 @@ GOMAX Ultimate fits anyone who wants a modern, AI-run WordPress or WooCommerce s
 - Get recommended inside ChatGPT, Claude and Gemini answers (GEO), not just Google.
 
 ## For local & small businesses
-- Describe what you want in plain language — GOMAX builds and maintains it.
+- Describe what you want in your own words — GOMAX builds and maintains it.
 - Stay findable when customers ask an AI assistant for a recommendation near them.
 - Keep the whole thing healthy with built-in maintenance auditors and backups.
 

@@ -28,6 +28,7 @@
 
 - Website: https://thebuzzbazaar.com
 - Product page: https://thebuzzbazaar.com/gomax-ultimate/
+- Documentation site: https://gomax-ultimate.github.io/gomax-ultimate/
 - Live demos: https://thebuzzbazaar.com/gomax-demo-nova/ , https://thebuzzbazaar.com/gomax-demo-villa-aurelia/ , https://thebuzzbazaar.com/gomax-demo-archipelago/ , https://thebuzzbazaar.com/gomax-demo-aura/
 - Docs: https://github.com/Gomax-ultimate/gomax-ultimate/tree/main/docs
 - Complete capability list: https://github.com/Gomax-ultimate/gomax-ultimate/blob/main/docs/capabilities.md
